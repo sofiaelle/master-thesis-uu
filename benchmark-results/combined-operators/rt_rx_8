@@ -1,0 +1,130 @@
+
+Benchmark results for RXJAVA using the FILTER operator
+Metric: RUNTIME. Data format: [Runtime (ns)]
+
+ ----------------------------- 
+Discarded warm up results: 
+Runtime: 1615784.0 ns
+Runtime: 1615784.0 ns
+Runtime: 1615785.0 ns
+Runtime: 1615786.0 ns
+Runtime: 1615787.0 ns
+Runtime: 1615787.0 ns
+Runtime: 1615788.0 ns
+Runtime: 1615788.0 ns
+Runtime: 1615789.0 ns
+Runtime: 1615790.0 ns
+
+
+ ----------------------------- 
+Results: 
+ [Runtime (ns)]
+Runtime: 1615791.0 ns
+Runtime: 1615796.0 ns
+Runtime: 1615798.0 ns
+Runtime: 1615800.0 ns
+Runtime: 1615800.0 ns
+Runtime: 1615802.0 ns
+Runtime: 1615802.0 ns
+Runtime: 1615803.0 ns
+Runtime: 1615803.0 ns
+Runtime: 1615803.0 ns
+Runtime: 1615804.0 ns
+Runtime: 1615806.0 ns
+Runtime: 1615809.0 ns
+Runtime: 1615810.0 ns
+Runtime: 1615810.0 ns
+Runtime: 1615811.0 ns
+Runtime: 1615812.0 ns
+Runtime: 1615812.0 ns
+Runtime: 1615813.0 ns
+Runtime: 1615814.0 ns
+Runtime: 1615814.0 ns
+Runtime: 1615815.0 ns
+Runtime: 1615817.0 ns
+Runtime: 1615818.0 ns
+Runtime: 1615819.0 ns
+Runtime: 1615820.0 ns
+Runtime: 1615822.0 ns
+Runtime: 1615827.0 ns
+Runtime: 1615832.0 ns
+Runtime: 1615833.0 ns
+Runtime: 1615833.0 ns
+Runtime: 1615834.0 ns
+Runtime: 1615834.0 ns
+Runtime: 1615835.0 ns
+Runtime: 1615835.0 ns
+Runtime: 1615836.0 ns
+Runtime: 1615836.0 ns
+Runtime: 1615838.0 ns
+Runtime: 1615839.0 ns
+Runtime: 1615840.0 ns
+Runtime: 1615840.0 ns
+Runtime: 1615841.0 ns
+Runtime: 1615842.0 ns
+Runtime: 1615842.0 ns
+Runtime: 1615843.0 ns
+Runtime: 1615844.0 ns
+Runtime: 1615845.0 ns
+Runtime: 1615846.0 ns
+Runtime: 1615846.0 ns
+Runtime: 1615848.0 ns
+Runtime: 1615849.0 ns
+Runtime: 1615851.0 ns
+Runtime: 1615852.0 ns
+Runtime: 1615853.0 ns
+Runtime: 1615854.0 ns
+Runtime: 1615854.0 ns
+Runtime: 1615859.0 ns
+Runtime: 1615861.0 ns
+Runtime: 1615869.0 ns
+Runtime: 1615869.0 ns
+Runtime: 1615870.0 ns
+Runtime: 1615870.0 ns
+Runtime: 1615870.0 ns
+Runtime: 1615871.0 ns
+Runtime: 1615871.0 ns
+Runtime: 1615872.0 ns
+Runtime: 1615872.0 ns
+Runtime: 1615873.0 ns
+Runtime: 1615873.0 ns
+Runtime: 1615873.0 ns
+Runtime: 1615874.0 ns
+Runtime: 1615874.0 ns
+Runtime: 1615874.0 ns
+Runtime: 1615875.0 ns
+Runtime: 1615875.0 ns
+Runtime: 1615875.0 ns
+Runtime: 1615876.0 ns
+Runtime: 1615876.0 ns
+Runtime: 1615876.0 ns
+Runtime: 1615876.0 ns
+Runtime: 1615878.0 ns
+Runtime: 1615878.0 ns
+Runtime: 1615878.0 ns
+Runtime: 1615878.0 ns
+Runtime: 1615879.0 ns
+Runtime: 1615879.0 ns
+Runtime: 1615879.0 ns
+Runtime: 1615879.0 ns
+Runtime: 1615880.0 ns
+Runtime: 1615880.0 ns
+Runtime: 1615880.0 ns
+Runtime: 1615880.0 ns
+Runtime: 1615881.0 ns
+Runtime: 1615881.0 ns
+Runtime: 1615881.0 ns
+Runtime: 1615881.0 ns
+Runtime: 1615882.0 ns
+Runtime: 1615882.0 ns
+Runtime: 1615882.0 ns
+Runtime: 1615882.0 ns
+
+----------------------------- 
+Calculated benchmark results: 
+Arithmetic mean: 
+1.6158475 ms
+Standard deviation: 
+29.0
+Confidence interval: 
+(1615841.82, 1615853.18)

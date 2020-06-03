@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">kotlin-flow</string>
+
+    <string-array name="BenchmarkOperatorSpinner">
+        <item>Map</item>
+        <item>Filter</item>
+        <item>Reduce</item>
+        <item>Take</item>
+        <item>Zip</item>
+        <item>FlatMap</item>
+    </string-array>
+
+    <string-array name="BenchmarkTypeSpinner">
+        <item>RxJava</item>
+        <item>Kotlin Flow</item>
+    </string-array>
+
+    <string-array name="BenchmarkMetricSpinner">
+        <item>Garbage collection</item>
+        <item>Memory consumption</item>
+        <item>Runtime</item>
+    </string-array>
+</resources>

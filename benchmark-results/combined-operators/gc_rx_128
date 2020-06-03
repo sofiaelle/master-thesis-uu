@@ -1,0 +1,130 @@
+
+Benchmark results for RXJAVA using the FILTER operator
+Metric: GARBAGE_COLLECTION. Data format: [GC count, GC time (ns), GC bytes freed, GC bytes allocated]
+
+ ----------------------------- 
+Discarded warm up results: 
+GC count: 0.0, GC time taken: 0.0, GC bytes freed: 3195136.0. GC bytes allocated: 0.0
+GC count: 0.0, GC time taken: 0.0, GC bytes freed: 5373968.0. GC bytes allocated: 0.0
+GC count: 1.0, GC time taken: 172.0, GC bytes freed: 6897936.0. GC bytes allocated: 1222096.0
+GC count: 1.0, GC time taken: 172.0, GC bytes freed: 8388880.0. GC bytes allocated: 1222096.0
+GC count: 1.0, GC time taken: 172.0, GC bytes freed: 1.0010896E7. GC bytes allocated: 1222096.0
+GC count: 1.0, GC time taken: 172.0, GC bytes freed: 1.0731792E7. GC bytes allocated: 1222096.0
+GC count: 1.0, GC time taken: 172.0, GC bytes freed: 1.2435712E7. GC bytes allocated: 1222096.0
+GC count: 1.0, GC time taken: 172.0, GC bytes freed: 1.3353216E7. GC bytes allocated: 1222096.0
+GC count: 1.0, GC time taken: 172.0, GC bytes freed: 1.4827792E7. GC bytes allocated: 1222096.0
+GC count: 1.0, GC time taken: 172.0, GC bytes freed: 1.5482896E7. GC bytes allocated: 1222096.0
+
+
+ ----------------------------- 
+Results: 
+ [GC count, GC time (ns), GC bytes freed, GC bytes allocated]
+GC count: 1.0, GC time taken: 172.0, GC bytes freed: 1.8474464E7. GC bytes allocated: 1222096.0
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 1.975912E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 2.1790736E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 2.434664E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 2.6427408E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 2.7557904E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 2.9573136E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 3.0457872E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 3.1506448E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 3.2505872E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 3.3816592E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 3.499624E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 3.6503568E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 3.7158928E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 3.9780368E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 4.2565648E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 4.4482576E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 4.7022096E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 4.8971792E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 5.047912E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 5.1593232E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 5.3542928E7. GC bytes allocated: 1.2423704E7
+GC count: 1.0, GC time taken: 185.0, GC bytes freed: 5.5722E7. GC bytes allocated: 1.2423704E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 5.7819152E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 6.1440016E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 6.4192528E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 6.6912272E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 6.9369856E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 7.1221248E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 7.217152E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 7.7611008E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 7.8544896E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 8.1215488E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 8.2919424E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 8.4508672E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 8.6441984E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 8.8031232E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 8.9604096E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 9.0898432E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 9.4928896E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 9.6796672E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 9.9401728E7. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 1.01842944E8. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 1.0387456E8. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 1.04841216E8. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 1.05824256E8. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 1.06938368E8. GC bytes allocated: 3.6162128E7
+GC count: 2.0, GC time taken: 378.0, GC bytes freed: 1.10493696E8. GC bytes allocated: 3.6162128E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.14049024E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.1665408E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.1902976E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.21536512E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.23027456E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.3664676E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.37859176E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.40054632E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.41086824E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.42446696E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.43626344E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.44871528E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.46346088E8. GC bytes allocated: 9.435716E7
+GC count: 3.0, GC time taken: 553.0, GC bytes freed: 1.47706392E8. GC bytes allocated: 9.435716E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.37150464E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.38559488E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.40034048E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.41574144E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.4262272E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.44130048E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.4647296E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.49307392E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.51404544E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.52420352E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.5351808E8. GC bytes allocated: 8.1933456E7
+GC count: 2.0, GC time taken: 368.0, GC bytes freed: 1.54484736E8. GC bytes allocated: 8.1933456E7
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.5679488E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.57597696E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.58334976E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.59121408E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.5990784E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.60628736E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.61431552E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.62136064E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.62922496E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.63610624E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.64233216E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.6474112E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.6498688E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.65117952E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.65298176E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.65429248E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.65625856E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.65740544E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.65920768E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.66199296E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.66428672E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.66477824E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.66494208E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.66510592E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.66494208E8. GC bytes allocated: 1.44130248E8
+GC count: 3.0, GC time taken: 529.0, GC bytes freed: 1.66477824E8. GC bytes allocated: 1.44130248E8
+
+----------------------------- 
+Calculated benchmark results: 
+Mean (arithmetic and harmonic): 
+Count: 2.17, time: 3.9604E-4 ms, freed: 7.441630643E7, alloc: 7.441630643E7 
+Standard deviation: 
+1.0, 137.0, 6.0769908E7, 5.1157872E7
+Confidence interval: 
+(1.97, 2.37), (369.19, 422.89), (6.250540446E7, 8.63272084E7), (1.659974188E7, 3.66536277E7)

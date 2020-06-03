@@ -1,0 +1,128 @@
+
+Benchmark results for KOTLINFLOW using the TAKE operator
+Metric: RUNTIME. Data format: [Runtime (ns)]
+
+ ----------------------------- 
+Discarded warm up results: 
+Runtime: 6.97725653E8 ns
+Runtime: 6.97725681E8 ns
+Runtime: 6.97725701E8 ns
+Runtime: 6.97725715E8 ns
+Runtime: 6.97725728E8 ns
+Runtime: 6.97725751E8 ns
+Runtime: 6.97725762E8 ns
+Runtime: 6.97725775E8 ns
+Runtime: 6.97725793E8 ns
+Runtime: 6.97725807E8 ns
+
+
+ ----------------------------- 
+Results: 
+ [Runtime (ns)]
+Runtime: 6.97725819E8 ns
+Runtime: 6.97725832E8 ns
+Runtime: 6.9772585E8 ns
+Runtime: 6.97725863E8 ns
+Runtime: 6.97725875E8 ns
+Runtime: 6.97725893E8 ns
+Runtime: 6.97725909E8 ns
+Runtime: 6.97725924E8 ns
+Runtime: 6.97725944E8 ns
+Runtime: 6.9772596E8 ns
+Runtime: 6.97725978E8 ns
+Runtime: 6.9772599E8 ns
+Runtime: 6.97726011E8 ns
+Runtime: 6.97726027E8 ns
+Runtime: 6.97726044E8 ns
+Runtime: 6.9772607E8 ns
+Runtime: 6.97726089E8 ns
+Runtime: 6.97726108E8 ns
+Runtime: 6.97726135E8 ns
+Runtime: 6.9772616E8 ns
+Runtime: 6.9772618E8 ns
+Runtime: 6.97726195E8 ns
+Runtime: 6.97726219E8 ns
+Runtime: 6.97726237E8 ns
+Runtime: 6.97726256E8 ns
+Runtime: 6.97726275E8 ns
+Runtime: 6.97726302E8 ns
+Runtime: 6.97726326E8 ns
+Runtime: 6.97726345E8 ns
+Runtime: 6.97726364E8 ns
+Runtime: 6.9772639E8 ns
+Runtime: 6.97726449E8 ns
+Runtime: 6.97726469E8 ns
+Runtime: 6.97726489E8 ns
+Runtime: 6.97726501E8 ns
+Runtime: 6.97726516E8 ns
+Runtime: 6.97726535E8 ns
+Runtime: 6.9772656E8 ns
+Runtime: 6.97726581E8 ns
+Runtime: 6.97726602E8 ns
+Runtime: 6.97726631E8 ns
+Runtime: 6.97726655E8 ns
+Runtime: 6.97726678E8 ns
+Runtime: 6.97726707E8 ns
+Runtime: 6.97726735E8 ns
+Runtime: 6.97726754E8 ns
+Runtime: 6.97726773E8 ns
+Runtime: 6.97726798E8 ns
+Runtime: 6.97726822E8 ns
+Runtime: 6.97726848E8 ns
+Runtime: 6.97726874E8 ns
+Runtime: 6.97726929E8 ns
+Runtime: 6.9772694E8 ns
+Runtime: 6.97726961E8 ns
+Runtime: 6.97726982E8 ns
+Runtime: 6.97726997E8 ns
+Runtime: 6.97727015E8 ns
+Runtime: 6.9772705E8 ns
+Runtime: 6.97727077E8 ns
+Runtime: 6.97727104E8 ns
+Runtime: 6.97727151E8 ns
+Runtime: 6.97727172E8 ns
+Runtime: 6.97727188E8 ns
+Runtime: 6.97727209E8 ns
+Runtime: 6.97727227E8 ns
+Runtime: 6.97727241E8 ns
+Runtime: 6.9772726E8 ns
+Runtime: 6.9772729E8 ns
+Runtime: 6.9772733E8 ns
+Runtime: 6.97727373E8 ns
+Runtime: 6.97727399E8 ns
+Runtime: 6.97727413E8 ns
+Runtime: 6.97727441E8 ns
+Runtime: 6.97727457E8 ns
+Runtime: 6.97727473E8 ns
+Runtime: 6.97727497E8 ns
+Runtime: 6.97727513E8 ns
+Runtime: 6.9772753E8 ns
+Runtime: 6.97727578E8 ns
+Runtime: 6.97727608E8 ns
+Runtime: 6.9772763E8 ns
+Runtime: 6.97727646E8 ns
+Runtime: 6.97727667E8 ns
+Runtime: 6.97727688E8 ns
+Runtime: 6.97727715E8 ns
+Runtime: 6.97727755E8 ns
+Runtime: 6.97727803E8 ns
+Runtime: 6.97727843E8 ns
+Runtime: 6.97727856E8 ns
+Runtime: 6.97727894E8 ns
+Runtime: 6.97727913E8 ns
+Runtime: 6.97727931E8 ns
+Runtime: 6.97727952E8 ns
+Runtime: 6.97727969E8 ns
+Runtime: 6.97727983E8 ns
+Runtime: 6.97728003E8 ns
+Runtime: 6.97728022E8 ns
+Runtime: 6.97728045E8 ns
+Runtime: 6.97728092E8 ns
+Runtime: 6.97728122E8 ns
+
+----------------------------- 
+Calculated benchmark results: 
+Arithmetic mean: 
+697.72689481 ms
+Plus minus (confidence interval): 
+1.3601999998092651E-4

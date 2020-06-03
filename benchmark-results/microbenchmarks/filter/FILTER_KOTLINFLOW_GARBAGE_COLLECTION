@@ -1,0 +1,5 @@
+
+----------------------------- 
+Calculated benchmark results: 
+Total amount of gc count, time, bytes freed and bytes allocated during the benchmark process: 
+Count: 28.0, time: 795.0 ms, freed: 1.23011128E8, alloc: 1.25108768E8 

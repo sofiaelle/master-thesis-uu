@@ -1,0 +1,130 @@
+
+Benchmark results for KOTLINFLOW using the FILTER operator
+Metric: RUNTIME. Data format: [Runtime (ns)]
+
+ ----------------------------- 
+Discarded warm up results: 
+Runtime: 1612347.0 ns
+Runtime: 1612354.0 ns
+Runtime: 1612356.0 ns
+Runtime: 1612358.0 ns
+Runtime: 1612360.0 ns
+Runtime: 1612363.0 ns
+Runtime: 1612365.0 ns
+Runtime: 1612367.0 ns
+Runtime: 1612370.0 ns
+Runtime: 1612375.0 ns
+
+
+ ----------------------------- 
+Results: 
+ [Runtime (ns)]
+Runtime: 1612378.0 ns
+Runtime: 1612382.0 ns
+Runtime: 1612386.0 ns
+Runtime: 1612393.0 ns
+Runtime: 1612394.0 ns
+Runtime: 1612396.0 ns
+Runtime: 1612397.0 ns
+Runtime: 1612399.0 ns
+Runtime: 1612400.0 ns
+Runtime: 1612402.0 ns
+Runtime: 1612403.0 ns
+Runtime: 1612405.0 ns
+Runtime: 1612406.0 ns
+Runtime: 1612407.0 ns
+Runtime: 1612410.0 ns
+Runtime: 1612412.0 ns
+Runtime: 1612416.0 ns
+Runtime: 1612418.0 ns
+Runtime: 1612423.0 ns
+Runtime: 1612428.0 ns
+Runtime: 1612432.0 ns
+Runtime: 1612438.0 ns
+Runtime: 1612440.0 ns
+Runtime: 1612442.0 ns
+Runtime: 1612443.0 ns
+Runtime: 1612445.0 ns
+Runtime: 1612446.0 ns
+Runtime: 1612447.0 ns
+Runtime: 1612447.0 ns
+Runtime: 1612448.0 ns
+Runtime: 1612449.0 ns
+Runtime: 1612451.0 ns
+Runtime: 1612452.0 ns
+Runtime: 1612452.0 ns
+Runtime: 1612455.0 ns
+Runtime: 1612456.0 ns
+Runtime: 1612456.0 ns
+Runtime: 1612459.0 ns
+Runtime: 1612460.0 ns
+Runtime: 1612463.0 ns
+Runtime: 1612466.0 ns
+Runtime: 1612466.0 ns
+Runtime: 1612467.0 ns
+Runtime: 1612468.0 ns
+Runtime: 1612469.0 ns
+Runtime: 1612469.0 ns
+Runtime: 1612470.0 ns
+Runtime: 1612473.0 ns
+Runtime: 1612477.0 ns
+Runtime: 1612478.0 ns
+Runtime: 1612482.0 ns
+Runtime: 1612485.0 ns
+Runtime: 1612487.0 ns
+Runtime: 1612491.0 ns
+Runtime: 1612492.0 ns
+Runtime: 1612493.0 ns
+Runtime: 1612496.0 ns
+Runtime: 1612497.0 ns
+Runtime: 1612499.0 ns
+Runtime: 1612500.0 ns
+Runtime: 1612501.0 ns
+Runtime: 1612502.0 ns
+Runtime: 1612504.0 ns
+Runtime: 1612504.0 ns
+Runtime: 1612507.0 ns
+Runtime: 1612508.0 ns
+Runtime: 1612507.0 ns
+Runtime: 1612513.0 ns
+Runtime: 1612513.0 ns
+Runtime: 1612521.0 ns
+Runtime: 1612523.0 ns
+Runtime: 1612525.0 ns
+Runtime: 1612526.0 ns
+Runtime: 1612526.0 ns
+Runtime: 1612527.0 ns
+Runtime: 1612527.0 ns
+Runtime: 1612528.0 ns
+Runtime: 1612531.0 ns
+Runtime: 1612532.0 ns
+Runtime: 1612534.0 ns
+Runtime: 1612535.0 ns
+Runtime: 1612536.0 ns
+Runtime: 1612540.0 ns
+Runtime: 1612542.0 ns
+Runtime: 1612543.0 ns
+Runtime: 1612543.0 ns
+Runtime: 1612544.0 ns
+Runtime: 1612545.0 ns
+Runtime: 1612546.0 ns
+Runtime: 1612546.0 ns
+Runtime: 1612548.0 ns
+Runtime: 1612550.0 ns
+Runtime: 1612551.0 ns
+Runtime: 1612553.0 ns
+Runtime: 1612555.0 ns
+Runtime: 1612555.0 ns
+Runtime: 1612556.0 ns
+Runtime: 1612558.0 ns
+Runtime: 1612559.0 ns
+Runtime: 1612559.0 ns
+
+----------------------------- 
+Calculated benchmark results: 
+Arithmetic mean: 
+1.61247984 ms
+Standard deviation: 
+52.0
+Confidence interval: 
+(1612469.65, 1612490.03)

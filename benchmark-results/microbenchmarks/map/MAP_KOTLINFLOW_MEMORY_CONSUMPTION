@@ -1,0 +1,128 @@
+
+Benchmark results for KOTLINFLOW using the MAP operator
+Metric: MEMORY_CONSUMPTION. Data format: [Memory objects allocated, Memory size in bytes, Bytes per object]
+
+ ----------------------------- 
+Discarded warm up results: 
+Memory objects allocated: 5717, memory size in bytes: 163296, bytes per object: 28.563232464579325
+Memory objects allocated: 4794, memory size in bytes: 139000, bytes per object: 28.994576554025866
+Memory objects allocated: 6464, memory size in bytes: 185120, bytes per object: 28.638613861386137
+Memory objects allocated: 6510, memory size in bytes: 192064, bytes per object: 29.502918586789555
+Memory objects allocated: 6827, memory size in bytes: 195392, bytes per object: 28.620477515746302
+Memory objects allocated: 8246, memory size in bytes: 245088, bytes per object: 29.72204705311666
+Memory objects allocated: 15115, memory size in bytes: 432384, bytes per object: 28.606285147204762
+Memory objects allocated: 14461, memory size in bytes: 411608, bytes per object: 28.463315123435446
+Memory objects allocated: 20753, memory size in bytes: 599696, bytes per object: 28.896834192646846
+Memory objects allocated: 19740, memory size in bytes: 561272, bytes per object: 28.433232016210738
+
+
+ ----------------------------- 
+Results: 
+ [Memory objects allocated, Memory size in bytes, Bytes per object]
+Memory objects allocated: 21456, memory size in bytes: 612144, bytes per object: 28.530201342281877
+Memory objects allocated: 20676, memory size in bytes: 587864, bytes per object: 28.432191913329465
+Memory objects allocated: 18500, memory size in bytes: 527584, bytes per object: 28.518054054054055
+Memory objects allocated: 24118, memory size in bytes: 691336, bytes per object: 28.664731735633136
+Memory objects allocated: 28749, memory size in bytes: 816912, bytes per object: 28.41531879369717
+Memory objects allocated: 29218, memory size in bytes: 830072, bytes per object: 28.40961051406667
+Memory objects allocated: 41744, memory size in bytes: 1186720, bytes per object: 28.428516673054812
+Memory objects allocated: 30769, memory size in bytes: 875568, bytes per object: 28.456173421300658
+Memory objects allocated: 43434, memory size in bytes: 1242872, bytes per object: 28.615186259612287
+Memory objects allocated: 43434, memory size in bytes: 1242872, bytes per object: 28.615186259612287
+Memory objects allocated: 30881, memory size in bytes: 878688, bytes per object: 28.454000841941646
+Memory objects allocated: 33618, memory size in bytes: 954776, bytes per object: 28.400737700041645
+Memory objects allocated: 33618, memory size in bytes: 954776, bytes per object: 28.400737700041645
+Memory objects allocated: 45038, memory size in bytes: 1280072, bytes per object: 28.422043607620232
+Memory objects allocated: 37883, memory size in bytes: 1075808, bytes per object: 28.398173323126468
+Memory objects allocated: 39584, memory size in bytes: 1129904, bytes per object: 28.544462409054162
+Memory objects allocated: 40043, memory size in bytes: 1139104, bytes per object: 28.447019454086856
+Memory objects allocated: 49100, memory size in bytes: 1395232, bytes per object: 28.41613034623218
+Memory objects allocated: 45777, memory size in bytes: 1305520, bytes per object: 28.51912532494484
+Memory objects allocated: 38252, memory size in bytes: 1087712, bytes per object: 28.4354282129039
+Memory objects allocated: 62776, memory size in bytes: 1791360, bytes per object: 28.535746145023577
+Memory objects allocated: 38252, memory size in bytes: 1087712, bytes per object: 28.4354282129039
+Memory objects allocated: 62776, memory size in bytes: 1791360, bytes per object: 28.535746145023577
+Memory objects allocated: 42495, memory size in bytes: 1206560, bytes per object: 28.392987410283563
+Memory objects allocated: 38252, memory size in bytes: 1087712, bytes per object: 28.4354282129039
+Memory objects allocated: 63657, memory size in bytes: 1816336, bytes per object: 28.533169957742274
+Memory objects allocated: 63657, memory size in bytes: 1816336, bytes per object: 28.533169957742274
+Memory objects allocated: 45503, memory size in bytes: 1293944, bytes per object: 28.43645473924796
+Memory objects allocated: 39490, memory size in bytes: 1121256, bytes per object: 28.393416054697393
+Memory objects allocated: 50455, memory size in bytes: 1433568, bytes per object: 28.412803488256863
+Memory objects allocated: 50455, memory size in bytes: 1433568, bytes per object: 28.412803488256863
+Memory objects allocated: 43264, memory size in bytes: 1228336, bytes per object: 28.39164201183432
+Memory objects allocated: 42842, memory size in bytes: 1216368, bytes per object: 28.39195182297745
+Memory objects allocated: 51801, memory size in bytes: 1476296, bytes per object: 28.499372598984575
+Memory objects allocated: 42875, memory size in bytes: 1217320, bytes per object: 28.392303206997084
+Memory objects allocated: 50962, memory size in bytes: 1448776, bytes per object: 28.428554609316745
+Memory objects allocated: 40454, memory size in bytes: 1148528, bytes per object: 28.39096257477629
+Memory objects allocated: 60891, memory size in bytes: 1734072, bytes per object: 28.4782972853131
+Memory objects allocated: 52031, memory size in bytes: 1476968, bytes per object: 28.386308162441622
+Memory objects allocated: 52126, memory size in bytes: 1479624, bytes per object: 28.385527375973602
+Memory objects allocated: 71463, memory size in bytes: 2033784, bytes per object: 28.459258637336802
+Memory objects allocated: 56663, memory size in bytes: 1608248, bytes per object: 28.38268358540847
+Memory objects allocated: 67720, memory size in bytes: 1923072, bytes per object: 28.397401063201418
+Memory objects allocated: 58724, memory size in bytes: 1668232, bytes per object: 28.408010353518154
+Memory objects allocated: 58724, memory size in bytes: 1668232, bytes per object: 28.408010353518154
+Memory objects allocated: 58724, memory size in bytes: 1668232, bytes per object: 28.408010353518154
+Memory objects allocated: 76700, memory size in bytes: 2177728, bytes per object: 28.392803129074316
+Memory objects allocated: 69555, memory size in bytes: 1975352, bytes per object: 28.399856228883618
+Memory objects allocated: 80198, memory size in bytes: 2277712, bytes per object: 28.401107259532658
+Memory objects allocated: 74044, memory size in bytes: 2102664, bytes per object: 28.39749338231322
+Memory objects allocated: 80198, memory size in bytes: 2277712, bytes per object: 28.401107259532658
+Memory objects allocated: 98235, memory size in bytes: 2792888, bytes per object: 28.430681528986614
+Memory objects allocated: 80242, memory size in bytes: 2278960, bytes per object: 28.4010867126941
+Memory objects allocated: 75686, memory size in bytes: 2147624, bytes per object: 28.37544592130645
+Memory objects allocated: 75686, memory size in bytes: 2147624, bytes per object: 28.37544592130645
+Memory objects allocated: 82100, memory size in bytes: 2330832, bytes per object: 28.390158343483556
+Memory objects allocated: 82100, memory size in bytes: 2330832, bytes per object: 28.390158343483556
+Memory objects allocated: 68143, memory size in bytes: 1933576, bytes per object: 28.37526965352274
+Memory objects allocated: 81534, memory size in bytes: 2313544, bytes per object: 28.37520543576913
+Memory objects allocated: 77214, memory size in bytes: 2192552, bytes per object: 28.39578314813376
+Memory objects allocated: 75217, memory size in bytes: 2134192, bytes per object: 28.373798476408258
+Memory objects allocated: 93337, memory size in bytes: 2650256, bytes per object: 28.394484502394548
+Memory objects allocated: 80490, memory size in bytes: 2283936, bytes per object: 28.375400670890794
+Memory objects allocated: 80073, memory size in bytes: 2273608, bytes per object: 28.39419030135002
+Memory objects allocated: 94102, memory size in bytes: 2671240, bytes per object: 28.386644279611485
+Memory objects allocated: 87204, memory size in bytes: 2475832, bytes per object: 28.39126645566717
+Memory objects allocated: 98091, memory size in bytes: 2785040, bytes per object: 28.392411128441957
+Memory objects allocated: 99756, memory size in bytes: 2831544, bytes per object: 28.384698664741972
+Memory objects allocated: 114943, memory size in bytes: 3270456, bytes per object: 28.452850543312774
+Memory objects allocated: 118464, memory size in bytes: 3366544, bytes per object: 28.418287412209615
+Memory objects allocated: 115007, memory size in bytes: 3272264, bytes per object: 28.452737659446818
+Memory objects allocated: 91677, memory size in bytes: 2601112, bytes per object: 28.372568910413737
+Memory objects allocated: 86978, memory size in bytes: 2467920, bytes per object: 28.374071604313734
+Memory objects allocated: 100173, memory size in bytes: 2843368, bytes per object: 28.384574685793577
+Memory objects allocated: 116276, memory size in bytes: 3308224, bytes per object: 28.451477519006502
+Memory objects allocated: 101827, memory size in bytes: 2890440, bytes per object: 28.38579158769285
+Memory objects allocated: 128229, memory size in bytes: 3643424, bytes per object: 28.413416621825018
+Memory objects allocated: 100944, memory size in bytes: 2865928, bytes per object: 28.391266444761452
+Memory objects allocated: 99382, memory size in bytes: 2819592, bytes per object: 28.37125435189471
+Memory objects allocated: 101105, memory size in bytes: 2870472, bytes per object: 28.390999456011077
+Memory objects allocated: 93865, memory size in bytes: 2663024, bytes per object: 28.370787833590796
+Memory objects allocated: 128629, memory size in bytes: 3654728, bytes per object: 28.41293953929518
+Memory objects allocated: 128629, memory size in bytes: 3654728, bytes per object: 28.41293953929518
+Memory objects allocated: 128629, memory size in bytes: 3654728, bytes per object: 28.41293953929518
+Memory objects allocated: 101756, memory size in bytes: 2886952, bytes per object: 28.37131962734384
+Memory objects allocated: 101756, memory size in bytes: 2886952, bytes per object: 28.37131962734384
+Memory objects allocated: 117505, memory size in bytes: 3334968, bytes per object: 28.381498659631504
+Memory objects allocated: 136992, memory size in bytes: 3891896, bytes per object: 28.40965895818734
+Memory objects allocated: 103296, memory size in bytes: 2930632, bytes per object: 28.37120508054523
+Memory objects allocated: 136999, memory size in bytes: 3892152, bytes per object: 28.4100759859561
+Memory objects allocated: 121954, memory size in bytes: 3461744, bytes per object: 28.38565360709776
+Memory objects allocated: 137357, memory size in bytes: 3902280, bytes per object: 28.40976433672838
+Memory objects allocated: 119928, memory size in bytes: 3403576, bytes per object: 28.38016143019145
+Memory objects allocated: 122526, memory size in bytes: 3477968, bytes per object: 28.385550821866378
+Memory objects allocated: 106967, memory size in bytes: 3034680, bytes per object: 28.37024502884067
+Memory objects allocated: 106967, memory size in bytes: 3034680, bytes per object: 28.37024502884067
+Memory objects allocated: 119928, memory size in bytes: 3403576, bytes per object: 28.38016143019145
+Memory objects allocated: 96848, memory size in bytes: 2747600, bytes per object: 28.370229638195937
+Memory objects allocated: 105437, memory size in bytes: 2991328, bytes per object: 28.3707616870738
+Memory objects allocated: 137147, memory size in bytes: 3900032, bytes per object: 28.436874302755438
+
+----------------------------- 
+Calculated benchmark results: 
+Mean (arithmetic and harmonic): 
+Count: 75009.49, size: 2131045.52, bytes per object: 28.42
+Plus minus (confidence interval): 
+Count: 6414.100000000006, size: 182019.32000000007, bytes per object: 0.0

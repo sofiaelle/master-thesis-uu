@@ -1,0 +1,128 @@
+
+Benchmark results for RXJAVA using the FILTER operator
+Metric: RUNTIME. Data format: [Runtime (ns)]
+
+ ----------------------------- 
+Discarded warm up results: 
+Runtime: 699.909225 ns
+Runtime: 699.909259 ns
+Runtime: 699.909282 ns
+Runtime: 699.909301 ns
+Runtime: 699.90932 ns
+Runtime: 699.909337 ns
+Runtime: 699.909355 ns
+Runtime: 699.909376 ns
+Runtime: 699.909395 ns
+Runtime: 699.909413 ns
+
+
+ ----------------------------- 
+Results: 
+ [Runtime (ns)]
+Runtime: 699.909437 ns
+Runtime: 699.909458 ns
+Runtime: 699.909478 ns
+Runtime: 699.909497 ns
+Runtime: 699.909518 ns
+Runtime: 699.909538 ns
+Runtime: 699.909562 ns
+Runtime: 699.909582 ns
+Runtime: 699.909607 ns
+Runtime: 699.909641 ns
+Runtime: 699.909663 ns
+Runtime: 699.909684 ns
+Runtime: 699.909702 ns
+Runtime: 699.909724 ns
+Runtime: 699.909744 ns
+Runtime: 699.909761 ns
+Runtime: 699.909777 ns
+Runtime: 699.909794 ns
+Runtime: 699.90981 ns
+Runtime: 699.909827 ns
+Runtime: 699.909848 ns
+Runtime: 699.909868 ns
+Runtime: 699.909887 ns
+Runtime: 699.909905 ns
+Runtime: 699.909924 ns
+Runtime: 699.90994 ns
+Runtime: 699.909957 ns
+Runtime: 699.909982 ns
+Runtime: 699.909999 ns
+Runtime: 699.910018 ns
+Runtime: 699.910036 ns
+Runtime: 699.910057 ns
+Runtime: 699.910075 ns
+Runtime: 699.910099 ns
+Runtime: 699.91012 ns
+Runtime: 699.910138 ns
+Runtime: 699.910164 ns
+Runtime: 699.910185 ns
+Runtime: 699.910205 ns
+Runtime: 699.910221 ns
+Runtime: 699.910245 ns
+Runtime: 699.910266 ns
+Runtime: 699.910284 ns
+Runtime: 699.9103 ns
+Runtime: 699.910319 ns
+Runtime: 699.910336 ns
+Runtime: 699.910353 ns
+Runtime: 699.910375 ns
+Runtime: 699.910392 ns
+Runtime: 699.91041 ns
+Runtime: 699.910427 ns
+Runtime: 699.910444 ns
+Runtime: 699.91046 ns
+Runtime: 699.910476 ns
+Runtime: 699.910496 ns
+Runtime: 699.910511 ns
+Runtime: 699.910527 ns
+Runtime: 699.910542 ns
+Runtime: 699.910558 ns
+Runtime: 699.910576 ns
+Runtime: 699.910596 ns
+Runtime: 699.910619 ns
+Runtime: 699.910637 ns
+Runtime: 699.910653 ns
+Runtime: 699.910672 ns
+Runtime: 699.910694 ns
+Runtime: 699.910717 ns
+Runtime: 699.910741 ns
+Runtime: 699.910777 ns
+Runtime: 699.910802 ns
+Runtime: 699.910823 ns
+Runtime: 699.910853 ns
+Runtime: 699.910874 ns
+Runtime: 699.910895 ns
+Runtime: 699.910918 ns
+Runtime: 699.910939 ns
+Runtime: 699.910958 ns
+Runtime: 699.910979 ns
+Runtime: 699.910999 ns
+Runtime: 699.911016 ns
+Runtime: 699.911036 ns
+Runtime: 699.911057 ns
+Runtime: 699.91108 ns
+Runtime: 699.911109 ns
+Runtime: 699.911138 ns
+Runtime: 699.911172 ns
+Runtime: 699.911199 ns
+Runtime: 699.911223 ns
+Runtime: 699.91125 ns
+Runtime: 699.911275 ns
+Runtime: 699.911301 ns
+Runtime: 699.911326 ns
+Runtime: 699.911359 ns
+Runtime: 699.911383 ns
+Runtime: 699.911403 ns
+Runtime: 699.911423 ns
+Runtime: 699.911442 ns
+Runtime: 699.911461 ns
+Runtime: 699.911481 ns
+Runtime: 699.911508 ns
+
+----------------------------- 
+Calculated benchmark results: 
+Arithmetic mean: 
+699.9104351699999 ms
+Plus minus (confidence interval): 
+1.1583999991416931E-4

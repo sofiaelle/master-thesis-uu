@@ -1,0 +1,130 @@
+
+Benchmark results for RXJAVA using the FILTER operator
+Metric: MEMORY_CONSUMPTION. Data format: [Memory objects allocated, Memory size in bytes, Bytes per object]
+
+ ----------------------------- 
+Discarded warm up results: 
+Memory objects allocated: 876, memory size in bytes: 14072, bytes per object: 16.06392694063927
+Memory objects allocated: 1758, memory size in bytes: 28672, bytes per object: 16.309442548350397
+Memory objects allocated: 2634, memory size in bytes: 42744, bytes per object: 16.22779043280182
+Memory objects allocated: 2634, memory size in bytes: 42744, bytes per object: 16.22779043280182
+Memory objects allocated: 2634, memory size in bytes: 42744, bytes per object: 16.22779043280182
+Memory objects allocated: 2634, memory size in bytes: 42744, bytes per object: 16.22779043280182
+Memory objects allocated: 6132, memory size in bytes: 98520, bytes per object: 16.066536203522507
+Memory objects allocated: 7005, memory size in bytes: 112488, bytes per object: 16.058244111349037
+Memory objects allocated: 7005, memory size in bytes: 112488, bytes per object: 16.058244111349037
+Memory objects allocated: 7005, memory size in bytes: 112488, bytes per object: 16.058244111349037
+
+
+ ----------------------------- 
+Results: 
+ [Memory objects allocated, Memory size in bytes, Bytes per object]
+Memory objects allocated: 7158, memory size in bytes: 114936, bytes per object: 16.056999161777032
+Memory objects allocated: 7897, memory size in bytes: 126760, bytes per object: 16.0516651893124
+Memory objects allocated: 8562, memory size in bytes: 137400, bytes per object: 16.047652417659425
+Memory objects allocated: 8562, memory size in bytes: 137400, bytes per object: 16.047652417659425
+Memory objects allocated: 11194, memory size in bytes: 179888, bytes per object: 16.070037520100055
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 12066, memory size in bytes: 193840, bytes per object: 16.064975965522958
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+Memory objects allocated: 19415, memory size in bytes: 311776, bytes per object: 16.05851146021118
+
+----------------------------- 
+Calculated benchmark results: 
+Mean (arithmetic and harmonic): 
+Count: 17481.67, size: 280743.2, bytes per object: 16.06
+Standard deviation: 
+Count: 3537.0, size: 56778.0, bytes per object: 0.0
+Confidence interval: 
+Count: (16788.42, 18174.92), size: (269614.71, 291871.69), bytes per object: (16.06, 16.06)

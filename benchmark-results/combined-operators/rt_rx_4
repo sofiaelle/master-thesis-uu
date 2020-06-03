@@ -1,0 +1,129 @@
+
+Benchmark results for KOTLINFLOW using the FILTER operator
+Metric: RUNTIME. Data format: [Runtime (ns)]
+
+ ----------------------------- 
+Discarded warm up results: 
+Runtime: 869657.0 ns
+Runtime: 869664.0 ns
+Runtime: 869691.0 ns
+Runtime: 869707.0 ns
+Runtime: 869733.0 ns
+Runtime: 869746.0 ns
+Runtime: 869759.0 ns
+Runtime: 869770.0 ns
+Runtime: 869780.0 ns
+Runtime: 869795.0 ns
+
+
+ ----------------------------- 
+Results: 
+ [Runtime (ns)]
+Runtime: 869805.0 ns
+Runtime: 869810.0 ns
+Runtime: 869814.0 ns
+Runtime: 869833.0 ns
+Runtime: 869836.0 ns
+Runtime: 869841.0 ns
+Runtime: 869849.0 ns
+Runtime: 869852.0 ns
+Runtime: 869854.0 ns
+Runtime: 869860.0 ns
+Runtime: 869861.0 ns
+Runtime: 869862.0 ns
+Runtime: 869862.0 ns
+Runtime: 869863.0 ns
+Runtime: 869864.0 ns
+Runtime: 869864.0 ns
+Runtime: 869865.0 ns
+Runtime: 869865.0 ns
+Runtime: 869867.0 ns
+Runtime: 869867.0 ns
+Runtime: 869868.0 ns
+Runtime: 869868.0 ns
+Runtime: 869869.0 ns
+Runtime: 869870.0 ns
+Runtime: 869870.0 ns
+Runtime: 869870.0 ns
+Runtime: 869871.0 ns
+Runtime: 869872.0 ns
+Runtime: 869872.0 ns
+Runtime: 869886.0 ns
+Runtime: 869891.0 ns
+Runtime: 869893.0 ns
+Runtime: 869900.0 ns
+Runtime: 869907.0 ns
+Runtime: 869907.0 ns
+Runtime: 869909.0 ns
+Runtime: 869919.0 ns
+Runtime: 869921.0 ns
+Runtime: 869922.0 ns
+Runtime: 869926.0 ns
+Runtime: 869931.0 ns
+Runtime: 869939.0 ns
+Runtime: 869941.0 ns
+Runtime: 869942.0 ns
+Runtime: 869944.0 ns
+Runtime: 869952.0 ns
+Runtime: 869952.0 ns
+Runtime: 869954.0 ns
+Runtime: 869954.0 ns
+Runtime: 869963.0 ns
+Runtime: 869963.0 ns
+Runtime: 869973.0 ns
+Runtime: 869973.0 ns
+Runtime: 869974.0 ns
+Runtime: 869975.0 ns
+Runtime: 869975.0 ns
+Runtime: 869978.0 ns
+Runtime: 869979.0 ns
+Runtime: 869982.0 ns
+Runtime: 869983.0 ns
+Runtime: 869983.0 ns
+Runtime: 869986.0 ns
+Runtime: 869987.0 ns
+Runtime: 869988.0 ns
+Runtime: 869989.0 ns
+Runtime: 869992.0 ns
+Runtime: 869987.0 ns
+Runtime: 869995.0 ns
+Runtime: 869995.0 ns
+Runtime: 869997.0 ns
+Runtime: 869997.0 ns
+Runtime: 870000.0 ns
+Runtime: 870000.0 ns
+Runtime: 870001.0 ns
+Runtime: 870003.0 ns
+Runtime: 870003.0 ns
+Runtime: 870003.0 ns
+Runtime: 870005.0 ns
+Runtime: 870008.0 ns
+Runtime: 870010.0 ns
+Runtime: 870011.0 ns
+Runtime: 870011.0 ns
+Runtime: 870014.0 ns
+Runtime: 870014.0 ns
+Runtime: 870014.0 ns
+Runtime: 870015.0 ns
+Runtime: 870016.0 ns
+Runtime: 870017.0 ns
+Runtime: 870017.0 ns
+Runtime: 870018.0 ns
+Runtime: 870019.0 ns
+Runtime: 870019.0 ns
+Runtime: 870021.0 ns
+Runtime: 870021.0 ns
+Runtime: 870021.0 ns
+Runtime: 870022.0 ns
+Runtime: 870023.0 ns
+Runtime: 870030.0 ns
+Runtime: 870030.0 ns
+
+----------------------------- 
+Calculated benchmark results: 
+Arithmetic mean: 
+0.86994257 ms
+Standard deviation: 
+66.0
+Confidence interval: 
+(869929.57, 869955.57)

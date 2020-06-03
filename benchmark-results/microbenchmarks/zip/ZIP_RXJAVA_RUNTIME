@@ -1,0 +1,128 @@
+
+Benchmark results for RXJAVA using the ZIP operator
+Metric: RUNTIME. Data format: [Runtime (ns)]
+
+ ----------------------------- 
+Discarded warm up results: 
+Runtime: 6.97710752E8 ns
+Runtime: 6.97710779E8 ns
+Runtime: 6.97710803E8 ns
+Runtime: 6.97710827E8 ns
+Runtime: 6.9771085E8 ns
+Runtime: 6.97710871E8 ns
+Runtime: 6.97710893E8 ns
+Runtime: 6.97710914E8 ns
+Runtime: 6.97710936E8 ns
+Runtime: 6.97710957E8 ns
+
+
+ ----------------------------- 
+Results: 
+ [Runtime (ns)]
+Runtime: 6.97710978E8 ns
+Runtime: 6.97711021E8 ns
+Runtime: 6.97711044E8 ns
+Runtime: 6.97711066E8 ns
+Runtime: 6.97711091E8 ns
+Runtime: 6.97711114E8 ns
+Runtime: 6.97711141E8 ns
+Runtime: 6.97711167E8 ns
+Runtime: 6.97711196E8 ns
+Runtime: 6.97711222E8 ns
+Runtime: 6.97711247E8 ns
+Runtime: 6.97711271E8 ns
+Runtime: 6.97711288E8 ns
+Runtime: 6.97711315E8 ns
+Runtime: 6.97711343E8 ns
+Runtime: 6.97711372E8 ns
+Runtime: 6.97711397E8 ns
+Runtime: 6.97711411E8 ns
+Runtime: 6.97711422E8 ns
+Runtime: 6.97711435E8 ns
+Runtime: 6.97711459E8 ns
+Runtime: 6.97711494E8 ns
+Runtime: 6.97711531E8 ns
+Runtime: 6.97711572E8 ns
+Runtime: 6.97711608E8 ns
+Runtime: 6.97711642E8 ns
+Runtime: 6.9771166E8 ns
+Runtime: 6.97711673E8 ns
+Runtime: 6.97711698E8 ns
+Runtime: 6.97711723E8 ns
+Runtime: 6.97711753E8 ns
+Runtime: 6.97711781E8 ns
+Runtime: 6.97711813E8 ns
+Runtime: 6.97711842E8 ns
+Runtime: 6.97711869E8 ns
+Runtime: 6.97711893E8 ns
+Runtime: 6.97711919E8 ns
+Runtime: 6.97711946E8 ns
+Runtime: 6.97711976E8 ns
+Runtime: 6.97712004E8 ns
+Runtime: 6.97712034E8 ns
+Runtime: 6.97712057E8 ns
+Runtime: 6.97712082E8 ns
+Runtime: 6.97712102E8 ns
+Runtime: 6.97712141E8 ns
+Runtime: 6.97712162E8 ns
+Runtime: 6.9771219E8 ns
+Runtime: 6.97712221E8 ns
+Runtime: 6.97712257E8 ns
+Runtime: 6.97712267E8 ns
+Runtime: 6.97712279E8 ns
+Runtime: 6.97712289E8 ns
+Runtime: 6.97712296E8 ns
+Runtime: 6.97712308E8 ns
+Runtime: 6.97712322E8 ns
+Runtime: 6.97712333E8 ns
+Runtime: 6.97712367E8 ns
+Runtime: 6.97712409E8 ns
+Runtime: 6.97712451E8 ns
+Runtime: 6.97712499E8 ns
+Runtime: 6.97712526E8 ns
+Runtime: 6.97712543E8 ns
+Runtime: 6.97712556E8 ns
+Runtime: 6.97712566E8 ns
+Runtime: 6.97712582E8 ns
+Runtime: 6.97712606E8 ns
+Runtime: 6.97712632E8 ns
+Runtime: 6.97712668E8 ns
+Runtime: 6.97712708E8 ns
+Runtime: 6.97712748E8 ns
+Runtime: 6.97712785E8 ns
+Runtime: 6.97712804E8 ns
+Runtime: 6.9771282E8 ns
+Runtime: 6.97712837E8 ns
+Runtime: 6.97712861E8 ns
+Runtime: 6.97712884E8 ns
+Runtime: 6.97712912E8 ns
+Runtime: 6.97712952E8 ns
+Runtime: 6.97712987E8 ns
+Runtime: 6.97713011E8 ns
+Runtime: 6.97713049E8 ns
+Runtime: 6.97713084E8 ns
+Runtime: 6.97713115E8 ns
+Runtime: 6.97713129E8 ns
+Runtime: 6.9771314E8 ns
+Runtime: 6.97713148E8 ns
+Runtime: 6.9771316E8 ns
+Runtime: 6.97713175E8 ns
+Runtime: 6.97713204E8 ns
+Runtime: 6.97713258E8 ns
+Runtime: 6.97713274E8 ns
+Runtime: 6.97713286E8 ns
+Runtime: 6.97713301E8 ns
+Runtime: 6.97713312E8 ns
+Runtime: 6.97713325E8 ns
+Runtime: 6.97713335E8 ns
+Runtime: 6.97713344E8 ns
+Runtime: 6.97713357E8 ns
+Runtime: 6.97713371E8 ns
+Runtime: 6.97713382E8 ns
+
+----------------------------- 
+Calculated benchmark results: 
+Arithmetic mean: 
+697.712242 ms
+Plus minus (confidence interval): 
+1.4269000005722045E-4
